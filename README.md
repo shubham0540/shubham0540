@@ -10,9 +10,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science & Engineering (2021–2025)
-- 💻 Java Full Stack & MERN Stack Developer
-- 🧠 Strong in DSA, DBMS, OOPS concepts
-
 ---
 
 ## 🛠 Tech Stack
